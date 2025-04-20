@@ -31,7 +31,8 @@
 ### 📫 Connect with Me
 
 - 📧 Email: dojha8056@gmail.com  
-- 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/devesh-ojha-601068222/))  
+- 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/devesh-ojha-601068222/))
+  
 
 ---
 
