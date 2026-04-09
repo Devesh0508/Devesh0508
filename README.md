@@ -41,13 +41,14 @@
 ## 🔧 Tools and Technologies
 
 <p align="left">
-  <img src="[img.shields.io](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)"/>
-  <img src="[img.shields.io](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)"/>
-  <img src="[img.shields.io](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)"/>
-  <img src="[img.shields.io](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)"/>
-  <img src="[img.shields.io](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)"/>
-  <img src="[img.shields.io](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)"/>
-  <img src="[img.shields.io](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54""")/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white""")/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black""")/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white""")/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white""")/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white""")/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white""")/>
+
 </p>
 
 ---
