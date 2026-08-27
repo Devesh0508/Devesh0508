@@ -52,17 +52,6 @@
 
 ---
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Devesh0508&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devesh0508&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Devesh0508&hide_border=true&theme=tokyonight" />
-
-</div>
-
----
-
 ### 🎓 Education & Certifications
 
 - 🎓 **Post-Baccalaureate Diploma, Applied Data Science** — Thompson Rivers University, BC (2023–2025)
