@@ -1,65 +1,83 @@
-<h1 align="center">Hi, I'm Devesh 👋</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/devesh-ojha-601068222/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+Business+Systems+Analyst;Turning+messy+data+into+decisions;Power+BI+%E2%80%A2+SQL+%E2%80%A2+Python+%E2%80%A2+ETL;Deep+Learning+%E2%80%A2+Computer+Vision+%E2%80%A2+GenAI" alt="Typing SVG" />
-  </a>
-</p>
+# Devesh Ojha
 
-<p align="center">
-  <b>I turn raw, messy business data into dashboards and models that people actually make decisions with.</b><br/>
-  4+ years across IT infrastructure, oil &amp; gas, and healthcare data — now building ML + GenAI solutions end to end.
-</p>
+### Data & AI Engineer · Calgary, AB
+**I build the whole path — ingestion, modelling, and the product that sits on top.**
+Four years turning enterprise operational data into systems people run their week on. Now shipping full-stack, ML-backed products end to end.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/devesh-ojha-601068222/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://devesh0508.github.io"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-  <a href="mailto:dojha8056@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Calgary,%20AB-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-devesh0508.github.io-0B1220?style=for-the-badge&logo=githubpages&logoColor=4F9CF9)](https://devesh0508.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devesh-ojha-601068222)
+[![Email](https://img.shields.io/badge/Email-dojha8056@gmail.com-34D399?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dojha8056@gmail.com)
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Devesh0508/Devesh0508/main/impact-dashboard.svg" width="100%" alt="Impact snapshot: a +15.5% growth leader found in AER regulator filings, 3-day reporting cycle cut to 4 hours, 12 hours of manual work reduced to 90 seconds, 8 stakeholder teams on shipped dashboards, and a model benchmark reaching 97.4% test accuracy"/>
+
+</div>
 
 ---
 
-### 🧰 Tech Stack
+## How I build
 
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0089D6?style=flat-square&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-</p>
+```mermaid
+flowchart LR
+    A["<b>Sources</b><br/>AER regulator files<br/>ServiceNow ITSM<br/>Excel · CSV · APIs"]
+    B["<b>Ingest &amp; validate</b><br/>Python · pandas<br/>Azure Data Factory<br/>rule-based QA layer"]
+    C[("<b>Modelled store</b><br/>PostgreSQL · star schema<br/>indexes · RLS")]
+    D["<b>Serve</b><br/>Power BI · Next.js<br/>REST + RPC endpoints"]
+    E["<b>Decide</b><br/>SLA breach alerts<br/>price comparison<br/>exec dashboards"]
 
----
+    A --> B --> C --> D --> E
+    C -.->|"features"| F["<b>Models</b><br/>scikit-learn · TensorFlow<br/>benchmark &amp; ship"]
+    F -.-> D
 
-### 🚀 Featured Projects
+    style C fill:#131E33,stroke:#4F9CF9,color:#E6EDF7
+    style F fill:#131E33,stroke:#34D399,color:#E6EDF7
+```
 
-| Project | What it does | Impact | Stack |
-|---|---|---|---|
-| **[🛢️ Alberta Oil Sands Production Analysis](https://github.com/Devesh0508/Alberta_Oil_Sands_Analysis)** | End-to-end ETL + interactive Power BI dashboard on AER ST39 regulator data across 9 operators | Cleaned **12,084 records**; surfaced Gibson Energy **+15.5% YoY** growth & seasonal turnaround patterns | `Python` `pandas` `Power BI` |
-| **[💊 CheaperRx](https://github.com/Devesh0508/cheaperrx)** | Live product — Canada's prescription price comparator | Full-stack SaaS: auth, DB, payments in production | `Next.js 14` `Supabase` `Stripe` |
-| **[⚡ Excel → Insight Automation Pipeline](https://github.com/Devesh0508/Python-Pipeline-for-Excel-Automation)** | Python pipeline replacing a manual HR reporting workflow | **12 hours of manual work → 90 seconds** | `Python` `pandas` `openpyxl` |
-| **[🩺 Pediatric Pneumonia Detection](https://github.com/Devesh0508/Pediatric-Pneumonia-Detection)** | VGG19 transfer-learning CNN classifying chest X-rays | **~88% accuracy**; augmentation + regularization for robustness | `TensorFlow` `Keras` `CV` |
-| **[🛰️ Space Object Classification](https://github.com/Devesh0508/Space-Object-Classification)** | Supervised ML classifying space objects from structured telemetry | Model comparison + evaluation pipeline | `scikit-learn` `pandas` |
-
-> 🔭 **In progress:** a GenAI RAG assistant over enterprise documents (LangChain + vector DB) and a millions-of-rows data-engineering pipeline. Stay tuned.
+Most portfolios stop at the notebook. Mine go to the part where someone else depends on the output.
 
 ---
 
-### 🎓 Education & Certifications
+## Featured work
 
-- 🎓 **Post-Baccalaureate Diploma, Applied Data Science** — Thompson Rivers University, BC (2023–2025)
-- 🎓 **B.Tech, Electronics & Instrumentation Engineering** — MAKAUT, India
-- 📜 Power BI Data Analytics — Simplilearn
-- 📜 Modernizing Data Lakes & Data Warehouses with Google Cloud — Coursera
-- 📜 Microsoft Azure AI Fundamentals (AI-900)
+| Project | The hard part | Stack |
+|---|---|---|
+| **[CheaperRx](https://github.com/Devesh0508/cheaperrx)** · [live ↗](https://cheaperrx.vercel.app)<br/>Canadian prescription price comparator | Multi-tenant auth with **row-level security enforced in Postgres**, not app code. Drug autocomplete on GIN full-text indexes rather than `LIKE` scans. Stripe webhooks as the single source of truth for entitlement. | `Next.js 14` `TypeScript` `Supabase` `PostgreSQL` `Stripe` |
+| **[Alberta Oil Sands Analysis](https://github.com/Devesh0508/Alberta_Oil_Sands_Analysis)**<br/>Regulator data → operator intelligence | Unpivoting three wide, human-readable regulator workbooks into one tidy fact table — 9 operators × 36 months × 9 commodity streams — then finding the signal: Gibson Energy **+15.5%** bitumen growth 2022–24, and May output running **13% below** the annual mean as turnarounds land. | `Python` `pandas` `Power BI` |
+| **[HR Analytics Pipeline](https://github.com/Devesh0508/Python-Pipeline-for-Excel-Automation)**<br/>12 hours/week of manual Excel, deleted | A **12-rule validation gate** that fails loudly instead of silently corrupting downstream reports, plus a Streamlit front door so analysts self-serve without touching code. | `Python` `pandas` `Streamlit` |
+| **[Space Object Classification](https://github.com/Devesh0508/Space-Object-Classification)**<br/>Orbital telemetry → object type | Class imbalance was the whole problem, not the model. SMOTE to 8,431/class, then a tuned benchmark across four algorithms — **97.4%** on held-out data, read through per-class metrics rather than headline accuracy. | `scikit-learn` `imbalanced-learn` |
+| **[Pediatric Pneumonia Detection](https://github.com/Devesh0508/Pediatric-Pneumonia-Detection)**<br/>Chest X-ray triage support | VGG19 transfer learning with augmentation and regularisation tuned for a **small, imbalanced clinical dataset** where recall matters more than accuracy. | `TensorFlow` `Keras` |
 
 ---
 
-<p align="center"><i>Turning raw data into decisions. Open to Data / Business Analyst & ML roles.</i></p>
+## Stack
+
+**Languages** &nbsp;`Python` &nbsp;`SQL` &nbsp;`TypeScript` &nbsp;`DAX` &nbsp;`M / Power Query`
+
+**Data & platform** &nbsp;`PostgreSQL` &nbsp;`Azure Data Factory` &nbsp;`Supabase` &nbsp;`Power BI` &nbsp;`ServiceNow` &nbsp;`Databricks concepts`
+
+**ML & AI** &nbsp;`scikit-learn` &nbsp;`TensorFlow / Keras` &nbsp;`pandas · NumPy` &nbsp;`SMOTE · GridSearchCV` &nbsp;`RAG & LLM app patterns`
+
+**Product & infra** &nbsp;`Next.js 14` &nbsp;`Stripe` &nbsp;`Vercel` &nbsp;`Docker` &nbsp;`Git`
+
+---
+
+## Day job
+
+**Business Systems Analyst — Cognizant** *(John Deere IT Infrastructure)*
+Twice-daily SLA reporting pipelines over ServiceNow ITSM data via Azure Data Factory; Power BI models built from scratch and adopted by **8 stakeholder teams**; a Python validation layer that cut reporting defects by **50%** and pulled a three-day reporting cycle down to **four hours**.
+
+**Education** &nbsp;Post-Baccalaureate Diploma, Applied Data Science — *Thompson Rivers University* &nbsp;·&nbsp; B.Tech, Electronics & Instrumentation — *MAKAUT*
+
+**Certifications** &nbsp;Power BI Data Analytics *(Simplilearn)* &nbsp;·&nbsp; Modernizing Data Lakes & Warehouses on Google Cloud *(Coursera)* &nbsp;·&nbsp; Azure AI Fundamentals AI-900 *(Microsoft)*
+
+---
+
+<div align="center">
+
+**Open to Data Engineer, AI/ML Engineer and Senior Analyst roles in Canada.**
+Work authorised · based in Calgary · available immediately
+
+</div>
