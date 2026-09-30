@@ -2,7 +2,7 @@
 
 # Devesh Ojha
 
-### AI &amp; Data Engineer · Calgary, AB
+### AI &amp; Data Engineer 
 **I build models and the data infrastructure they depend on — the part most models never survive.**
 Four years inside enterprise operational data, then two building ML systems and full-stack products end to end.
 
