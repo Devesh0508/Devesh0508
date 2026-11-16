@@ -94,7 +94,7 @@ Shipped **CheaperRx** end to end: schema, row-level security model, Stripe billi
 **Post-Baccalaureate Diploma, Applied Data Science** — *Thompson Rivers University, Sep 2023 – Sep 2025*
 Full-time. Machine learning, statistical methods and applied data engineering; the pneumonia-detection and space-object projects were produced here.
 
-**Business Analyst, Cognizant Technology Solutions** — *Jan 2020 – Jul 2023, client: John Deere IT Infrastructure*
+**Technical Lead (Data &amp; Analytics), Cognizant Technology Solutions** — *Jan 2020 – Jul 2023, client: John Deere IT Infrastructure*
 Power BI semantic layer adopted by **8 Finance, Ops and IT teams**, cutting a three-day reconciliation to **four hours**. Azure Data Factory pipelines ingesting **70,000+ records per cycle**. Diagnosed a SQL aggregation defect distorting $50M+ investment reporting and cut metric variance **50%** in 30 days. Designed the **12-rule data quality framework** behind the HR pipeline above.
 
 **B.Tech, Electronics &amp; Instrumentation Engineering** — *MAKAUT, 2015 – 2019*
