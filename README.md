@@ -88,7 +88,7 @@ Each README ends with **what I would do differently** — SMOTE belongs inside t
 
 ## Background
 
-**Independent builds &amp; analytics projects** — *Sep 2025 – present, Calgary AB*
+**Independent builds &amp; analytics projects** — *Sep 2025 – present*
 Shipped **CheaperRx** end to end: schema, row-level security model, Stripe billing, SEO, deployment. Built the AER ST39 ETL and Power BI model now published with reproducible findings.
 
 **Post-Baccalaureate Diploma, Applied Data Science** — *Thompson Rivers University, Sep 2023 – Sep 2025*
@@ -105,7 +105,7 @@ Power BI semantic layer adopted by **8 Finance, Ops and IT teams**, cutting a th
 
 <div align="center">
 
-**Open to AI/ML Engineer, Data Engineer and Senior Analyst roles in Canada.**
-Work authorised · based in Calgary · available immediately
+**Open to AI/ML Engineer, Data Engineer and Senior Analyst roles in India.**
+Based in Bengaluru · open to Hyderabad · available immediately
 
 </div>
